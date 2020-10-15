@@ -1,0 +1,145 @@
+License Agreement
+
+General Conditions
+
+PLEASE READ THE LICENSING AGREEMENT CAREFULLY BEFORE COMPLETING YOUR PURCHASE (WHETHER IT BE VIA INTERNET UPLOAD OR VIA COMPACT DISC OR THROUGH OTHER METHODS). BY COMPLETING YOUR PURCHASE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS OF THE LICENSING AGREEMENT, INSTALLATION AND USAGE OF THE SOFTWARE PACKAGE. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, PLEASE DO NOT UPLOAD, INSTALL OR USE THE SOFTWARE.
+
+The present License Agreement (hereinafter referred to as “License”) is a legal agreement between You being a legal equity or an individual and EASYVEASY Sp. z o.o. Company (hereinafter “Owner”), located on Trzcinowa str. 23/49, Warsaw, 02-446, Poland; it concerns modules and/or templates using (hereinafter – “Software”), and annuls all previous agreements regarding the Software.
+
+The Software is licensed for use strictly within the terms and conditions set forth in the License Agreement. This agreement governs the use of the Software only and does not constitute a sale of the Software itself.
+
+The Owner has the right to amend the License Agreement. You accept and agree to the fact that Your actions shall be deemed to be acceptance and agreement to the amended License Agreement if You use the Software after License Agreements has been amended.
+The amended License Agreement is to be replaced by the Owner on http://gomage.com/license-agreement
+Terms and Definitions
+
+“Owner” shall mean EASYVEASY Sp. z o.o., that is the only owner of all Software rights granted by the law of a jurisdiction, including rignt of property as well as excusive author and interest rights.
+
+“You” (or “Your”) are an individual or legal equity purchasing License for Software usage on Your own domain or domains.
+
+“Software” shall mean the modules or/and templates provided by and on www.gomage.com.
+
+“License” shall mean the Agreement about the Software usage between the Owner and You.
+
+“New release product” – shall mean a new version of the Software which contains new features and functions and/or upgraded features and functions. New release products will be defined by an increased version number. For example, version 1.0 will be the new release until replaced by version 2.0.
+
+“Web-site” shall mean one page or several pages in digital form, accessed and transported with the HTTP / HTTPS protocol.
+
+“Domain/URL” shall mean to show the locations (address) of the source in network – Internet. For example: URL: http://www.domain.com.
+
+“Magento” shall mean a system of on-line store operation and therefore the modules and templates are designed for such purpose.
+1. The License Granting and the Software Using
+
+1.1. The Owner grants You personal, nonnegotiable, nonexclusive property rights for software usage in the shape and form it is in at time of purchase as per one of the set of licensing conditions specified in Clause 2 (“The License Types”) assuming the special rights as follows: You have the right to delete any file from the application which You require to integrate to Your website or software. Once a file has been deleted, the licensing agreement remains in effect for the remaining parts of the Software still in use. These rights are valid in all countries.
+
+1.2. You hereby undertake and are obliged to use the Software strictly in the frames of this License provisions as well as current law of a jurisdiction, provisions and international norms and rules accepted of the corresponded jurisduction (including the legislation covering export / import of data as well as software from/in Poland and other related countries).
+
+1.3. You undertake and agree to assure that neither the Software itself nor its copies shall be copied, duplicated, sold, exchanged, resold by You personally or under Your permission by other individuals/legal equities regardless any purposes, unless it is stipulated by the License or a proper right has been granted You by the Owner in a form of a separate agreement. Also You assure that neither the Software itself nor its copies shall be changed or derivative code or software shall be developed on the basis of the Software or its parts (excepting cases which are restricted by the current legislation, and such restriction should remain in the frame of the part restricted by the legislation). Any action mentioned above is deemed to be the Owner copyright infringement. You agree and take full responsibility for any breach of Your obligations stipulated in Clause 1.3 of the License as well as for all consequences of such breach (including all losses and damages burn by the Owner.
+
+1.4. You represent, warrant, and covenant that use of the Software will only be in compliance with this License and all applicable laws. 
+
+You specifically agree not to: (a) harass, threaten, embarrass or cause distress, unwanted attention or discomfort to Owner (b) send blatant expressions of bigotry, racism, hatred, or profanity or any other images or material deemed by Owner to be offensive or/and (c) send, submit or publish any defamatory, inaccurate, abusive, obscene, profane, or threatening material which is racially or ethnically offensive or which infringes upon the right of any third party, as determined by Owner. 
+
+In the case that Owner finds You in repeated violations of 1.4, Owner reserves the right to terminate the License without any refunds and/or block Your account. 
+2. The License Types
+
+Each License has specific options that restrict Software usage. These restrictions can be expanded or cancelled at extra cost to You at the time of License purchase or at any time the License is in effect.
+2.1. Single Domain License
+
+2.1.1. The Software can be integrated to one or several domains of one Magento installation and Owner grants You a Non-Exclusive Single Domain License (NESDL). The "NESDL" grants You permission to use the Software on a single website, be it your own site or a client's project. A new "NESDL" is required if you wish to install the Software in a different domain or in other project. Under a Non-exclusive Single Domain License, You are not authorized to redistribute or sell the theme to other parties.
+
+2.1.2. The Web-site Domain should be provided at the moment of the purchasing. The Web-site Domain can ONLY be changed within forty-five (45) days of date of purchase after YOUR request.
+3. The License Control
+
+The Software can contain restriction control function integrated for each License. The restriction control function will not gather any data about You, Your store or Your clients. You are obliged and agree not to edit, modify or delete this function.
+4. Upgrading
+
+Each License type remains valid for all new release products of the Software issued within 1 year (365 days) from the date of License purchasing. As soon as the one year period expires, all further upgrading is performed at extra cost to You.
+5. Installation
+
+5.1. The installation of the Software is performed for extra charge.
+
+5.2. The cost of installation covers assistance in code development and customization, errors elimination as well as assistance in special requirements but not limited by them.
+6. Support
+
+6.1. Software purchase includes six (6) months support free of charge beginning on the date of purchase.
+
+6.2. The six (6) month’s free support does not cover error elimination arisen in result of installation performed by You. In case of problems with installation You can purchase installation service by the Owner.
+
+6.3. The free support does not cover assistance in code development and customization as well as assurance of compatibility to, discovered error elimination of, assistance in elimination of errors arising after upgrading the Software and assistance in special requirements connected with but not limited to the software developed by third parties.
+
+6.4. All inquiries to the support department shall only be related to the Software provided on www.gomage.com.
+7. Refund
+
+7.1. If you are not satisfied with the Software purchased, the Owner will issue a refund within fourteen (14) days from the date of purchase on a case-by-case basis.
+
+Owner will refund 100% of the amount of the item(s) “Purchase  Price” ONLY.
+
+Purchase Price does NOT include any expenses borne by You, such as transaction costs, credit card fees or any other expenses related to the purchase.
+
+Further, Purchase Price does not include installation costs, customizations services or upgrades of extensions.
+
+Non-Refundable Items include but are not limited to expenses borne by You, installation costs, customization services or upgrades of extensions of Software.
+
+7.2. Termination of the Licensing Agreement does not obligate the Owner to refund any of the Purchase Price.
+8. License Agreement Cancellation
+
+8.1. Should You fail to follow the terms and conditions in the Licensing Agreement, the Owner reserves the right to terminate the Agreement immediately. You will be notified via email should the Owner exercise this right.
+
+8.2. Notification of License termination shall be sent to You via electronic communication such as email, provided at the time of purchase.
+
+8.3. Should the Owner learn of any copyright infringement, the Owner has the right to cancel the License agreement in accordance with valid international legislation of intellectual property.
+
+8.4. Suspension of Account. If you this License, Owner may suspend You user account. In the case of serious violations to this License or in the case of other violations that are not cured within a reasonable time frame (as determined by Owner in its sole discretion), Owner may, in addition to its other legal rights and remedies available hereunder and at law or in equity, delete your account and your site(s) from the Service. In either case, you may be permanently restricted from holding an account to the Service. The decision about whether an account or site is in violation of the terms is at the sole discretion of Owner.
+9. Guarantees and Property Right
+
+9.1. The Owner declares and guarantees that He is the owner of exclusive property right, copyrights for the Software in whole as well as brands, logo, and is authorized to issue License for using the Software.
+
+9.2. You admit and agree that the Owner possesses all the rights foreseen by legislation including property rights and exclusive ownership rights related to the Software, including the intellectual property rights connected with the Software regardless these rights have been registered or not, nor countries in which they are accepted. You further admit that the Software may contain certain information which is confidential and You agree not to discover such information without prior written agreement submitted by the Owner.
+
+9.3. Unless You are provided written agreement by the Owner for Software usage You have no right for usage of brands, logo, names, domains and others belonging to the Owner.
+
+9.4. If You have been granted the right for using any brand or logo by signing a separate written agreement with the Owner You take obligation to use them in accordance with the present License and all conditions and provision being in force as well as recommendations for the brand usage.
+
+9.5. You have no right to delete, hide, or change any notification regarding the Owner’s property rights for the Software (including copyrights and trading brands) which can be received together with the Software or with its support.
+10. The Owner’s Responsibility Restriction
+
+10.1. The Owner is released of any responsibility for the Software operation as well as its guarantee service provided that the Software was changed (i.e. features, functions, properties, destination, structure are changed) by means which are not stipulated by the technical documents supplied to the Software, as well as if the Software has been damaged by other software due to effect on of the other software, including case in which the Software has been damaged by virus or other harmful software, or damaged by You or by third Parties both deliberately or by accidentally.
+
+10.2. No oral or written information or recommendations received from the Owner are considered as guarantee obligations. This restriction cannot be applied if it contradicts the legislation of Your country.
+
+10.3. Without prejudice to the above mentioned cased in the License, no obligations, guarantees nor other conditions (including all provisions meant, such as: satisfactory quality, suitableness for certain purpose or correspondence to the description) cover the Software and its using.
+THE HIGHEST LEVEL STIPULATED BY THE LEGISLATION IS APPLIED TO THIS LICENSE, EXCEPTING CASES STIPULATED BY THE GUARANTEE, THE OWNER IS RELEASED OF ANY RESPONSIBILITY TO YOUR FOR ANY LOSS, MORAL DAMAGE, ANY DAMAGE, ANY PROFIT LOSS, ANY INFORMATION LOSS CONNECTED WITH USING OF OR IMPOSSIBILITY TO USE THE SOFTWARE EVEN IN CASES PRIOR NOTIFICATION SUBMITTED BY YOU ABOUT POSSIBILITY OF SUCH A DAMAGE OR BY CLAIM OF ANY THIRD PARTY. IN ANY CASE THE RESPONSIBILITY OF THE OWNER CONCERNING ANY PROVISION OF THE LICENSE IS RESTRICTED BY THE AMOUNT OF ACTUALLY PAID BY YOU TO THE OWNER FOR THE SOFTWARE. THE PRESENT RESTRICTION IS NOT APPLICABLE REGARDING THE RESPONSIBILITY WHICH CANNOT BE EXCLUDED OR RESTRICTED AS PER LEGISLATION.
+11. Rights and Property Declaration
+
+11.1. All the rights granted clearly as per the License Agreement are reserved by the Owner. The Software is protected by the legislation and copyrights international agreements as well as rights for intellectual property. All the rights: property rights, intellectual property, ownership related to the Software belong to the Owner. You have no right to delete any information concerning the Owner’s copyrights from the Software unless appropriate written permission has been submitted.
+
+11.2. You accept and agree that for absence of actions, suits from the side of the Owner concerning any provisions observance as well as any refunds stipulated by the License (or by other documents the Owner possesses as per valid legislation) is not deemed to be the Owner rights refusal nor prevention to use them or refunds.
+12. Disputes Settlement
+
+12.1. All the disputes related to the present License Agreement are settled by means of negotiations between You and the Owner. The License Agreement as well as Your relationships with the Owner in the frame of the present License Agreement are governed by the legislation of Poland. Both You and the Owner agree that dispute which cannot be settled by negotiations is subject for Poland courts for settlement of any disputes related to the License. Nevertheless the Owner has the right to claim refund (or apply equal measures stipulated by the general legislation) in court of any jurisdiction.
+
+12.2. The present License Agreement is made in English. In case the Owner provides the translations of English version of the License Agreement, You agree that the translation is provided for convenience only and the relationships between You and the Owner are governed considering the English version of the License. In case of any discrepancy between English version of the License and translations, the English version is preferred.
+
+12.3. The present License Agreement is a contract of adhesion and is deemed to be an acceptance of the present License Agreement in the order stipulated by the License Agreement itself or actual Software. Usage by You is deemed and acceptance and performance of the Licensing Agreement without any amendments and additions on Your part.
+
+12.4. The jural relations between You and the Owner regarding the Software using which are not governed by the present License Agreement, shall be governed by the Legislation applicable to the Agreement as well as by norms of international legislation, namely by World Intellectual Property Organization Copyright Treaty approved by Diplomatic Conference dd. 20.12.1996., Berne Convention for the Protection of Literary and Artistic Works dd. 24.07.1971. and by other international resolutions.
+13. Activation Key Request
+
+13.1. If You want to get the activation key for the developer website, please contact our Support Department at contact form here: https://www.gomage.com/contacts/ and provide us with an URL or authentic IP.
+
+13.2. The developer website may be on a separate Magento installation than Your base domain from a purchased license.
+
+13.3. We do NOT provide activation keys for "localhost" URLs or "127.0.0.1" IP addresses. The URLs or IPs should be both unique and authentic.
+
+13.4. We ONLY provide the activation keys for bought licenses.
+
+13.5. All developer keys are active for 180 days; however, if you need an additional time to use our extension for development, please contact our Support Department at contact form here: https://www.gomage.com/contacts/ for a new key activation.
+14. Software Updates and Extension
+
+Owner reserves the right to inform You about software updates and/or extensions. These updates and/or extensions may be critical in order for the software to work properly.
+15. Advertising Material
+
+Advertising material may be periodically shown in the administrative panel of your Magento. You have the option to disable such advertisement if You do not wish to learn about our new and upcoming products. No information will be collected when advertising. Please refer to our Privacy Policy to learn more about how we protect Your information.
+BY CHECKING “I ACCEPT THE LICENSE AGREEMENT” YOU HEREBY AGREE IN WHOLE AND IRREVOCABLY WITH THE TERMS AND CONDITIONS OF THE LICENSE AGREEMENT.
+
+If you have any questions regarding the License or You wish to contact the Owner for any reasons, please do so by visiting our Website at https://www.gomage.com/contacts/

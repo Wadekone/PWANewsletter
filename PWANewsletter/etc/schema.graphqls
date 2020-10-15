@@ -1,0 +1,32 @@
+type Mutation {
+    CreateNewsletter(input: NewsletterInput): NewsletterOutput @resolver(class: "\\GoMage\\PWANewsletter\\Model\\Resolver\\CreateNewsletter") @doc(description:"Create Newsletter") @cache(cacheable: false)
+    UnsubscriptionNewsletter(input: NewsletterInput): NewsletterOutput @resolver(class: "\\GoMage\\PWANewsletter\\Model\\Resolver\\UnsubscriptionNewsletter") @doc(description:"Remove Newsletter") @cache(cacheable: false)
+}
+
+
+input NewsletterInput {
+    email: String @doc(description: "The customer's email")
+    key: String @doc(description: "The key form")
+}
+
+type NewsletterOutput {
+    message:  String @doc(description: "Message Call Back")
+    error:  String @doc(description: "Message Error Call Back")
+}
+
+
+type Query {
+    newsletter_config: NewsletterConfig @resolver(class: "GoMage\\PWANewsletter\\Model\\Resolver\\Config") @doc(description: "PWA Newsletter Config") @cache(cacheable: false)
+    subscribed(input: NewsletterInput): IsSubscribed @resolver(class: "GoMage\\PWANewsletter\\Model\\Resolver\\GetNewsletter") @doc(description: "PWA Newsletter Is Subscribed") @cache(cacheable: false)
+
+}
+
+
+type NewsletterConfig @doc(description: "Newsletter") {
+general_title:String @doc(description: "title")
+general_description:String @doc(description: "description")
+}
+
+type IsSubscribed @doc(description: "Is Subscribed") {
+subscribed:Boolean @doc(description: "subscribed")
+}

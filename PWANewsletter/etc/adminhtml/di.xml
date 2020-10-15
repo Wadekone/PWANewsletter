@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+
+    <type name="GoMage\PWAInstaller\Model\System\Config\Installer">
+        <arguments>
+            <argument name="installMapper" xsi:type="array">
+                <item name="GoMage_PWANewsletter" xsi:type="string">gomage_pwa_newsletter</item>
+            </argument>
+        </arguments>
+    </type>
+</config>

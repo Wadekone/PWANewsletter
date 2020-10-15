@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="gomage_pwa_newsletter" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1"
+                 showInStore="1">
+            <label>PWA Newsletter</label>
+            <tab>gomage_pwa_theme</tab>
+            <resource>GoMage_PWANewsletter::config_pwanewslatter</resource>
+            <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Newsletter Block</label>
+                <field id="title" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" >
+                    <label>Title</label>
+                </field>
+                <field id="description" translate="label comment" type="editor" sortOrder="40" showInDefault="1">
+                    <label>Description</label>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
